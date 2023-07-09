@@ -1,0 +1,53 @@
+[19-Oct-2022 05:10:10 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 55
+[19-Oct-2022 05:13:37 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 55
+[19-Oct-2022 05:27:09 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 55
+[19-Oct-2022 05:27:17 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 55
+[19-Oct-2022 05:27:21 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 55
+[19-Oct-2022 05:28:15 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 51
+[19-Oct-2022 05:29:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/henryde2/demo/l/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/henryde2/demo/l/login.php on line 7
+[19-Oct-2022 05:30:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/henryde2/demo/l/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/henryde2/demo/l/login.php on line 7
+[19-Oct-2022 05:30:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/henryde2/demo/l/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/henryde2/demo/l/login.php on line 7
+[19-Oct-2022 05:44:15 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
+[19-Oct-2022 05:46:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
+[19-Oct-2022 05:46:33 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
+[19-Oct-2022 05:46:45 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
+[19-Oct-2022 05:47:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
+[19-Oct-2022 05:47:38 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
+[19-Oct-2022 05:59:57 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:00:20 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
+[19-Oct-2022 06:00:36 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:00:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:01:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:04:58 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:05:30 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:05:36 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:06:15 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 80
+[19-Oct-2022 06:06:18 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 80
+[19-Oct-2022 06:06:19 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 80
+[19-Oct-2022 06:07:07 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:07:10 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:07:57 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:08:20 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:08:32 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:09:38 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 80
+[19-Oct-2022 06:13:51 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:13:55 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
+[19-Oct-2022 06:27:02 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
+[19-Oct-2022 06:30:43 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
+[19-Oct-2022 06:32:16 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
+[19-Oct-2022 06:33:15 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:33:39 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 06:35:26 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
+[19-Oct-2022 06:38:41 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
+[19-Oct-2022 11:49:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
+[19-Oct-2022 11:50:00 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/register.php on line 79
+[19-Oct-2022 11:50:06 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/henryde2/demo/l/login.php on line 52
